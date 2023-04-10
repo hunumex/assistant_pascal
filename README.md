@@ -30,6 +30,16 @@ bashCopy code
 
 `pipenv shell`
 
+Si cela pose problème installer les bibliothèques individuellement avec pip install
+
+1. pyttsx3
+2. speechrecognition
+3. pyaudio
+4. pygame
+5. python-dotenv
+6. gtts
+7. openai 
+
 Utilisation
 -----------
 
